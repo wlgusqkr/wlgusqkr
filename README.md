@@ -19,18 +19,25 @@
   <img src="https://img.shields.io/badge/TypeScript-317C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 </div>
 
-#### Frameworks & Tools
+#### ⚙️ Frameworks & Libraries
 <div style="margin: 0 auto; text-align: center;">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <br>
+</div>
+
+#### 🗄️ Database
+<div style="margin: 0 auto; text-align: center;">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+</div>
+
+#### ☁️ Infra & DevOps
+<div style="margin: 0 auto; text-align: center;">
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
 </div>
-
 <br>
 
 ### 🎓 Education
