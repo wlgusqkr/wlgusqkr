@@ -71,7 +71,7 @@
 
 ### 🌱 Open Source Contribution
 - **[apache/fesod#642](https://github.com/apache/fesod/pull/642)**: _Addressed an enhancement issue by adapting the Team page for mobile devices, improving its usability on smaller screens._
-
+- **[Deadlink-Hunter/Broken-Link-Website#122](https://github.com/Deadlink-Hunter/Broken-Link-Website/pull/122)**: _Refactored the theme implementation to resolve a TypeScript typing issue with custom colors._
 <br>
 
 ![](https://github-profile-trophy.vercel.app/?username=wlgusqkr&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SS,S,A,AAA,AA)
