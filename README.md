@@ -74,11 +74,10 @@
 - **[Deadlink-Hunter/Broken-Link-Website#122](https://github.com/Deadlink-Hunter/Broken-Link-Website/pull/122)**: _Refactored the theme implementation to resolve a TypeScript typing issue with custom colors._
 <br>
 
-![](https://github-profile-trophy.vercel.app/?username=wlgusqkr&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SS,S,A,AAA,AA)
-
 ### 🏆 Prize
-🏆 Prize
 - Excellence Award, Adventure Design Contest (2021.12.23)
 - Excellence Award, 7th Ne(o)rdinary (2024.11.23 ~ 2024.11.24)
 - Grand Prize, 2025 DU Idea Challenge (2025.10.13 ~ 2025.11.05)
 
+
+![](https://github-profile-trophy.vercel.app/?username=wlgusqkr&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SS,S,A,AAA,AA)
