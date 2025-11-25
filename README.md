@@ -62,6 +62,7 @@
 ### 🚀 Projects
 #### Backend
 - **[PyeongSaeng-BE](https://github.com/PyeongSaeng/PyeongSaeng-BE)**: ✨ _A platform for recommending and applying for jobs for seniors. (2025.06 ~ 2025.08)_
+- **[UNVEIL](https://github.com/2025-X-Thon-Team9-UNVEIL)**: A housing safety platform visualizing invisible risks: wall soundproofing analysis & street security. 2025-X-Thon Hackaton 🥈 2nd place
 
 #### Frontend
 - **[Chat-Sul](https://github.com/UMC-DEMO-PROJECT/Chat-Sul)** : ✨ _A service for finding lost items from bars. (2024.12 ~ 2025.02)_
@@ -75,9 +76,10 @@
 <br>
 
 ### 🏆 Prize
-- Excellence Award, Adventure Design Contest (2021.12.23)
-- Excellence Award, 7th Ne(o)rdinary (2024.11.23 ~ 2024.11.24)
-- Grand Prize, 2025 DU Idea Challenge (2025.10.13 ~ 2025.11.05)
+- 🥉 3st place, Adventure Design Contest (2021.12.23)
+- 🥉 3st place, 7th Ne(o)rdinary (2024.11.23 ~ 2024.11.24)
+- 🥈 2nd place, 2025 DU Idea Challenge (2025.10.13 ~ 2025.11.05)
+- 🥈 2nd place, 2025-X-Thon Hackaton (2025.11.23 ~ 2025.11.24)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=wlgusqkr&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SS,S,A,AAA,AA)
