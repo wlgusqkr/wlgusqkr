@@ -40,9 +40,6 @@
 </div>
 <br>
 
-### 🎓 Education
-- **Dongguk University** (2021.03 ~ Present)
-
 <br>
 
 ### 💼 Work Experience
@@ -74,12 +71,6 @@
 - **[apache/fesod#642](https://github.com/apache/fesod/pull/642)**: _Addressed an enhancement issue by adapting the Team page for mobile devices, improving its usability on smaller screens._
 - **[Deadlink-Hunter/Broken-Link-Website#122](https://github.com/Deadlink-Hunter/Broken-Link-Website/pull/122)**: _Refactored the theme implementation to resolve a TypeScript typing issue with custom colors._
 <br>
-
-### 🏆 Prize
-- 🥉 3st place, Adventure Design Contest (2021.12.23)
-- 🥉 3st place, 7th Ne(o)rdinary (2024.11.23 ~ 2024.11.24)
-- 🥈 2nd place, 2025 DU Idea Challenge (2025.10.13 ~ 2025.11.05)
-- 🥈 2nd place, 2025-X-Thon Hackaton (2025.11.23 ~ 2025.11.24)
 
 
 ![](https://github-profile-trophy.vercel.app/?username=wlgusqkr&theme=radical&no-frame=false&no-bg=true&margin-w=4&rank=SS,S,A,AAA,AA)
